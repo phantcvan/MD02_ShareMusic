@@ -1,0 +1,19 @@
+.showMess {
+    opacity: 1;
+    animation: fade-out 1s ease-in-out forwards;
+    color:white;
+  }
+  
+  .hideMess {
+    opacity: 0;
+    color:white;
+  }
+  
+  @keyframes fade-out {
+    from {
+      opacity: 1;
+    }
+    to {
+      opacity: 0;
+    }
+  }

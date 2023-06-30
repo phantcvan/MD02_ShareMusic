@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Anuphan:wght@500&family=Chivo+Mono:wght@300&family=Playfair+Display&display=swap');
+
+* {
+  font-family: Inter,sans-serif;
+}
+.App {
+  font-size: 15px;
+}
+
